@@ -1,0 +1,9 @@
+Page making in Next js
+- Make a folder in app folder with the name that we have to use in our link or perlinks or routing.
+like app < chai now a page is found name chai http://localhost:3000/chai
+- We also have to insure that we use page name file to render the page element or page content like page.tsx
+
+Typescript
+- in typescript ka main kaam hai iska type bata hai like
+const username: string = "hitesh"
+username : 1 => here it give as error that you have assign a string type but now it is a number now it verify the data
